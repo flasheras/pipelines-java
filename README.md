@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/fernandolasheras/fernandolasheras/_apis/build/status/flasheras.pipelines-java?branchName=master)](https://dev.azure.com/fernandolasheras/fernandolasheras/_build/latest?definitionId=2&branchName=master)
 
 # Contributing
 
